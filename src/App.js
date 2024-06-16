@@ -17,7 +17,7 @@ function App() {
       <h1 className='text-3xl font-bold my-4 text-stone-50'>Happy Fathers Day Dad!</h1>
       <div className='flex flex-wrap justify-center'>
         {images.map((image, index) => (
-          <img key={index} src={image} alt={`Father's Day ${index}`} className='m-2 w-64 h-64 object-cover' />
+          <img key={index} src={image} alt={`Father's Day ${index}`} className='m-2 w-48 h-48 object-cover' />
         ))}
       </div>
     </div>
