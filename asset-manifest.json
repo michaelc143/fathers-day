@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/fathers-day/static/css/main.4b2c362e.css",
-    "main.js": "/fathers-day/static/js/main.b79ed1bf.js",
+    "main.css": "/fathers-day/static/css/main.7baa9abc.css",
+    "main.js": "/fathers-day/static/js/main.c3b3ec15.js",
     "static/js/453.52ebdc4d.chunk.js": "/fathers-day/static/js/453.52ebdc4d.chunk.js",
+    "static/media/IMG_1952.png": "/fathers-day/static/media/IMG_1952.5151f625fcb36fc14109.png",
+    "static/media/IMG_1973.png": "/fathers-day/static/media/IMG_1973.261b0c69e6562da3c712.png",
+    "static/media/IMG_4553.png": "/fathers-day/static/media/IMG_4553.b5279b483464f760ab9d.png",
+    "static/media/IMG_8740.png": "/fathers-day/static/media/IMG_8740.49a0bfd7f5bfdf13fee6.png",
+    "static/media/IMG_0354.png": "/fathers-day/static/media/IMG_0354.c1b5e57b4fe8ae98ca36.png",
+    "static/media/IMG_1899.png": "/fathers-day/static/media/IMG_1899.5473dd5f752abcf752f5.png",
+    "static/media/IMG_9476.png": "/fathers-day/static/media/IMG_9476.ec648865e4bc8759d5c8.png",
+    "static/media/IMG_4586.png": "/fathers-day/static/media/IMG_4586.5ac2bdad290f853351c6.png",
+    "static/media/IMG_1960.png": "/fathers-day/static/media/IMG_1960.5a6c8db477f7f5b49011.png",
+    "static/media/IMG_6210_Original.png": "/fathers-day/static/media/IMG_6210_Original.e071f5ddf803bc9422c9.png",
+    "static/media/IMG_0408.png": "/fathers-day/static/media/IMG_0408.7b7a59251f317e034b59.png",
     "static/media/sailing.gif": "/fathers-day/static/media/sailing.eeb4cc9e0b5f39c05e04.gif",
-    "static/media/logo.svg": "/fathers-day/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fathers-day/index.html",
-    "main.4b2c362e.css.map": "/fathers-day/static/css/main.4b2c362e.css.map",
-    "main.b79ed1bf.js.map": "/fathers-day/static/js/main.b79ed1bf.js.map",
+    "main.7baa9abc.css.map": "/fathers-day/static/css/main.7baa9abc.css.map",
+    "main.c3b3ec15.js.map": "/fathers-day/static/js/main.c3b3ec15.js.map",
     "453.52ebdc4d.chunk.js.map": "/fathers-day/static/js/453.52ebdc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b2c362e.css",
-    "static/js/main.b79ed1bf.js"
+    "static/css/main.7baa9abc.css",
+    "static/js/main.c3b3ec15.js"
   ]
 }
