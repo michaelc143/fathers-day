@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/fathers-day/static/css/main.7baa9abc.css",
-    "main.js": "/fathers-day/static/js/main.c3b3ec15.js",
+    "main.css": "/fathers-day/static/css/main.f590ff15.css",
+    "main.js": "/fathers-day/static/js/main.ce343b08.js",
     "static/js/453.52ebdc4d.chunk.js": "/fathers-day/static/js/453.52ebdc4d.chunk.js",
     "static/media/IMG_1952.png": "/fathers-day/static/media/IMG_1952.5151f625fcb36fc14109.png",
     "static/media/IMG_1973.png": "/fathers-day/static/media/IMG_1973.261b0c69e6562da3c712.png",
+    "static/media/IMG_7857.png": "/fathers-day/static/media/IMG_7857.83e2bc60a43285f7f818.png",
     "static/media/IMG_4553.png": "/fathers-day/static/media/IMG_4553.b5279b483464f760ab9d.png",
     "static/media/IMG_8740.png": "/fathers-day/static/media/IMG_8740.49a0bfd7f5bfdf13fee6.png",
     "static/media/IMG_0354.png": "/fathers-day/static/media/IMG_0354.c1b5e57b4fe8ae98ca36.png",
+    "static/media/IMG_7856.png": "/fathers-day/static/media/IMG_7856.e35d7f7c219df8a179aa.png",
     "static/media/IMG_1899.png": "/fathers-day/static/media/IMG_1899.5473dd5f752abcf752f5.png",
     "static/media/IMG_9476.png": "/fathers-day/static/media/IMG_9476.ec648865e4bc8759d5c8.png",
+    "static/media/IMG_7855.png": "/fathers-day/static/media/IMG_7855.b83c5da483657f270c14.png",
+    "static/media/IMG_7858.png": "/fathers-day/static/media/IMG_7858.aa94a75bc1dc5d7de5e3.png",
     "static/media/IMG_4586.png": "/fathers-day/static/media/IMG_4586.5ac2bdad290f853351c6.png",
+    "static/media/IMG_0453.png": "/fathers-day/static/media/IMG_0453.fbca616675be4321fc07.png",
     "static/media/IMG_1960.png": "/fathers-day/static/media/IMG_1960.5a6c8db477f7f5b49011.png",
     "static/media/IMG_6210_Original.png": "/fathers-day/static/media/IMG_6210_Original.e071f5ddf803bc9422c9.png",
     "static/media/IMG_0408.png": "/fathers-day/static/media/IMG_0408.7b7a59251f317e034b59.png",
     "static/media/sailing.gif": "/fathers-day/static/media/sailing.eeb4cc9e0b5f39c05e04.gif",
     "index.html": "/fathers-day/index.html",
-    "main.7baa9abc.css.map": "/fathers-day/static/css/main.7baa9abc.css.map",
-    "main.c3b3ec15.js.map": "/fathers-day/static/js/main.c3b3ec15.js.map",
+    "main.f590ff15.css.map": "/fathers-day/static/css/main.f590ff15.css.map",
+    "main.ce343b08.js.map": "/fathers-day/static/js/main.ce343b08.js.map",
     "453.52ebdc4d.chunk.js.map": "/fathers-day/static/js/453.52ebdc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7baa9abc.css",
-    "static/js/main.c3b3ec15.js"
+    "static/css/main.f590ff15.css",
+    "static/js/main.ce343b08.js"
   ]
 }
