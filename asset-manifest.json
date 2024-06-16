@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fathers-day/static/css/main.e48b618c.css",
+    "main.css": "/fathers-day/static/css/main.593a4122.css",
     "main.js": "/fathers-day/static/js/main.ce343b08.js",
     "static/js/453.52ebdc4d.chunk.js": "/fathers-day/static/js/453.52ebdc4d.chunk.js",
     "static/media/IMG_1952.png": "/fathers-day/static/media/IMG_1952.5151f625fcb36fc14109.png",
@@ -19,14 +19,14 @@
     "static/media/IMG_1960.png": "/fathers-day/static/media/IMG_1960.5a6c8db477f7f5b49011.png",
     "static/media/IMG_6210_Original.png": "/fathers-day/static/media/IMG_6210_Original.e071f5ddf803bc9422c9.png",
     "static/media/IMG_0408.png": "/fathers-day/static/media/IMG_0408.7b7a59251f317e034b59.png",
-    "static/media/sailing.gif": "/fathers-day/static/media/sailing.eeb4cc9e0b5f39c05e04.gif",
+    "static/media/ocean.gif": "/fathers-day/static/media/ocean.f6866298b72d0010e3f9.gif",
     "index.html": "/fathers-day/index.html",
-    "main.e48b618c.css.map": "/fathers-day/static/css/main.e48b618c.css.map",
+    "main.593a4122.css.map": "/fathers-day/static/css/main.593a4122.css.map",
     "main.ce343b08.js.map": "/fathers-day/static/js/main.ce343b08.js.map",
     "453.52ebdc4d.chunk.js.map": "/fathers-day/static/js/453.52ebdc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e48b618c.css",
+    "static/css/main.593a4122.css",
     "static/js/main.ce343b08.js"
   ]
 }
